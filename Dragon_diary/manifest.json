@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.mkamenjak77.dragondiary",
+    "description": "description of Dragon_diary",
+    "architecture": "all",
+    "title": "Dragon_diary",
+    "hooks": {
+        "app": {
+            "apparmor": "app.apparmor",
+            "desktop": "app.desktop"
+        }
+    },
+    "version": "0.47",
+    "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

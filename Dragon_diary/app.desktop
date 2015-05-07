@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dragon_diary
+Exec=qmlscene $@ Main.qml
+Icon=Dragon_diary.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
